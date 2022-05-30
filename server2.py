@@ -67,5 +67,5 @@ if __name__ == '__main__':
     server.listen()
     clients = []
     nicknames = []
-    print('Запуск сервера...')
+    print('Сервер запущен...')
     client_recieve()
