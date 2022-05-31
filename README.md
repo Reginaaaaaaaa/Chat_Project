@@ -24,3 +24,13 @@
 Пользователи видят оповещения о новых подключениях и общаются друг с другом.
 
 <a href="https://ibb.co/g4Zp0Wx"><img src="https://i.ibb.co/Z2zPQg0/Screenshot-from-2022-05-31-09-08-11.png" alt="Screenshot-from-2022-05-31-09-08-11" border="0"></a>
+
+Отправка личных сообщений.
+Пользователь сначала выбирает получателя, а после пишет сообщение, которое хочет ему отправить.
+
+<a href="https://ibb.co/F3TD86r"><img src="https://i.ibb.co/bm9KN10/Screenshot-from-2022-05-31-09-08-50.png" alt="Screenshot-from-2022-05-31-09-08-50" border="0"></a>
+
+Выход из чата.
+Все пользователи получают оповещение об отключении этого пользователя.
+
+<a href="https://ibb.co/CBr12FG"><img src="https://i.ibb.co/MnX26L0/Screenshot-from-2022-05-31-09-08-59.png" alt="Screenshot-from-2022-05-31-09-08-59" border="0"></a>
