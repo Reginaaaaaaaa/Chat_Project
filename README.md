@@ -23,4 +23,4 @@
 Запуск сервера и подключение пользователей.
 Пользователи видят оповещения о новых подключениях и общаются друг с другом.
 
-<a href="https://ibb.co/CBr12FG"><img src="https://i.ibb.co/MnX26L0/Screenshot-from-2022-05-31-09-08-59.png" alt="Screenshot-from-2022-05-31-09-08-59" border="0"></a>
+<a href="https://ibb.co/g4Zp0Wx"><img src="https://i.ibb.co/Z2zPQg0/Screenshot-from-2022-05-31-09-08-11.png" alt="Screenshot-from-2022-05-31-09-08-11" border="0"></a>
